@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "typeRoots" : ["./node_modules/@types", "./typings"],
+      "resolveJsonModule": true,
+      "lib": ["es2018", "dom"]
+    }
+  }
